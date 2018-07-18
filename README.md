@@ -6,11 +6,11 @@ __Hello, this repository containing descriptions of projects in development or i
 
 Repository "study-materials"
 
-    ID        : 01
-    Name      : study-materials
-    Type      : Web application
-    Describe  : Website containing information about the materials used to study a certain technology (e.g.: HTML)
-    Status    : Idea
+    ID       : 01
+    PS       : Idea
+    Name     : study-materials
+    Type     : Web application
+    Describe : Website containing information about the materials used to study a certain technology (e.g.: HTML)
 
     STATUS REPORT
     15/07/2018 - Initial project description;
@@ -36,3 +36,8 @@ Repository "study-materials"
             Initialized
             Stalled
             Finished
+
+## Acronyms
+
+    ID - Identification
+    PS - Project Status
