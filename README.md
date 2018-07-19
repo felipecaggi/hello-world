@@ -7,7 +7,7 @@ __Hello, this repository containing descriptions of projects in development or i
 Repository "study-materials"
 
     ID       : 01
-    PS       : Idea
+    PS       : Initialized
     Name     : study-materials
     Type     : Web application
     Describe : Website containing information about the materials used to study a certain technology (e.g.: HTML)
@@ -21,6 +21,8 @@ Repository "study-materials"
     17/07/2018 - Changing the layout of status defaults;
                  Project status changed to "Idea".
 
+    18/07/2018 - Project status changed to "Initialized".
+
 ## Observations
 
     STATUS
@@ -30,9 +32,6 @@ Repository "study-materials"
 
         Possible statuses
             Idea
-            Planning:
-                .Studying
-                .others ...
             Initialized
             Stalled
             Finished
