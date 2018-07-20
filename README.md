@@ -12,7 +12,7 @@ Repository "study-materials"
     Type     : Web application
     Describe : Website containing information about the materials used to study a certain technology (e.g.: HTML)
 
-    STATUS REPORT
+    STATUS REPORT (SR)
     15/07/2018 - Initial project description;
                  Initial project status defined in "Planning".
 
@@ -22,6 +22,8 @@ Repository "study-materials"
                  Project status changed to "Idea".
 
     18/07/2018 - Project status changed to "Initialized".
+
+    19/07/2018 - Defined 1st sketch of the main page.
 
 ## Observations
 
@@ -39,4 +41,6 @@ Repository "study-materials"
 ## Acronyms
 
     ID - Identification
+    PJ - Project
     PS - Project Status
+    SR - Status Report
