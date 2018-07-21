@@ -25,6 +25,8 @@ Repository "study-materials"
 
     19/07/2018 - Defined 1st sketch of the main page.
 
+    20/07/2018 - Sections implemented in the index.html file code based on the first sketch.
+
 ## Observations
 
     STATUS
