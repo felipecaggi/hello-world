@@ -27,6 +27,8 @@ Repository "study-materials"
 
     20/07/2018 - Sections implemented in the index.html file code based on the first sketch.
 
+    21/07/2018 - Initial CSS code implemented.
+
 ## Observations
 
     STATUS
