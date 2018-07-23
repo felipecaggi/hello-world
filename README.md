@@ -29,6 +29,8 @@ Repository "study-materials"
 
     21/07/2018 - Initial CSS code implemented.
 
+    22/07/2018 - Mouse overlay CSS ruleset implemented in 'a' and 'li' elements.
+
 ## Observations
 
     STATUS
