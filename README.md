@@ -31,6 +31,8 @@ Repository "study-materials"
 
     22/07/2018 - Mouse overlay CSS ruleset implemented in 'a' and 'li' elements.
 
+    23/07/2018 - Adds the docs folder with CSS, HTML and JavaScript subfolders.
+
 ## Observations
 
     STATUS
