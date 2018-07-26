@@ -33,7 +33,9 @@ Repository "study-materials"
 
     23/07/2018 - Adds the docs folder with CSS, HTML and JavaScript subfolders.
 
-    24/07/2018 - Working on website design
+    24/07/2018 - Working on website design.
+
+    25/07/2018 - Main page template finalized.
 
 ## Observations
 
