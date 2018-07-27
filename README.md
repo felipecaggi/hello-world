@@ -37,6 +37,9 @@ Repository "study-materials"
 
     25/07/2018 - Main page template finalized.
 
+    26/07/2018 - Implemented new header template of the main page;
+                 Implemented new template of the main section.
+
 ## Observations
 
     STATUS
