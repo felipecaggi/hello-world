@@ -40,8 +40,9 @@ Repository "study-materials"
     26/07/2018 - Implemented new template of the header section;
                  Implemented new template of the main section.
 
-    27/07/2018 - Implemented new template of the footer section.
-    
+    27/07/2018 - Implemented new template of the footer section;
+                 Code optimization of main.css file
+
 ## Observations
 
     STATUS
