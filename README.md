@@ -43,6 +43,8 @@ Repository "study-materials"
     27/07/2018 - Implemented new template of the footer section;
                  Code optimization of main.css file
 
+    28/07/2018 - Working on website design.
+
 ## Observations
 
     STATUS
