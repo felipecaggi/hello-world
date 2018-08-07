@@ -20,6 +20,14 @@ Repository "schedule"
     Type     : Web application
     Describe : Bullet-journal style site containing features designed to control daily activities such as calendars and sticky notes
 
+Repository "foreign-language"
+
+    ID       : 03
+    PS       : Idea
+    Name     : foreign-language
+    Type     : Java project
+    Describe : Application for learning foreign language. Study of pattern on sentences of phrases.
+
 ## Observations
 
     STATUS
