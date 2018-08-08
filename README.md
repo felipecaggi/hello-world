@@ -23,7 +23,7 @@ Repository "schedule"
 Repository "foreign-language"
 
     ID       : 03
-    PS       : Idea
+    PS       : Initialized
     Name     : foreign-language
     Type     : Java project
     Describe : Application for learning foreign language. Study of pattern on sentences of phrases.
