@@ -28,6 +28,14 @@ Repository "foreign-language"
     Type     : Java project
     Describe : Application for learning foreign language. Study of pattern on sentences of phrases.
 
+Repository "leitura-infantil"
+
+    ID       : 04
+    PS       : Initialized
+    Name     : leitura-infantil
+    Type     : Java project
+    Describe : Aplicação educacional para alfabetização de crianças.
+
 ## Observations
 
     STATUS
