@@ -12,11 +12,11 @@ Repository "study-materials"
     Type     : Web application
     Describe : Website containing information about the materials used to study a certain technology (e.g.: HTML)
 
-Repository "schedule"
+Repository "notebook"
 
     ID       : 02
-    PS       : Idea
-    Name     : schedule
+    PS       : Initialized
+    Name     : notebook
     Type     : Web application
     Describe : Bullet-journal style site containing features designed to control daily activities such as calendars and sticky notes
 
