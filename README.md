@@ -36,6 +36,14 @@ Repository "leitura-infantil"
     Type     : Java project
     Describe : Aplicação educacional para alfabetização de crianças.
 
+Repository "project-control"
+
+    ID       : 05
+    PS       : Idea
+    Name     : project-control
+    Type     : Java project / Web application
+    Describe : Aplication for realize the control of the stage project.  
+
 ## Observations
 
     STATUS
